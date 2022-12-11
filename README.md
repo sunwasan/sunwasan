@@ -4,7 +4,7 @@
 <h3 align="center">Little Data Science Student</h3>
 
 ### 🎓Studying 
- - Bachelor's Data Science and Innovation at Thammasart University
+ -B.Sc.(Data Science and Innovation)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">

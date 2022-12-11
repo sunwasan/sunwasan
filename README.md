@@ -4,7 +4,7 @@
 <h3 align="center">Little Data Science Student</h3>
 
 ### 🎓Studying 
- -B.Sc.Data Science and Innovation
+ -B.Sc.Data Science and Innovation @ Thammasat University
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,14 +37,14 @@
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/main/PNG/Icon-Obsolete2020Black.png" alt="Power Bi" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+
 </div>
 
 </td>
 
 
 
-
+ </tr>
 
 
 
